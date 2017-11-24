@@ -4,3 +4,6 @@
 # .tfstate files
 *.tfstate
 *.tfstate.*
+
+# .env files because secrets
+*.env
